@@ -101,6 +101,8 @@ I'm driven to build solutions that combine logic, design, and efficiency. I'm co
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Franco-Lombardo7.Franco-Lombardo7&left_color=0d1117&right_color=58A6FF)
 
-*"Code is like humor: if you have to explain it, it's bad."*
+*"When I'm not coding, I'm training. Former competitive swimmer (federated),
+currently training triathlon and gym — discipline and consistency
+are values I carry into everything I do."*
 
 </div>
