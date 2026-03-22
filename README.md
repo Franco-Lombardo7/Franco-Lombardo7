@@ -80,10 +80,10 @@ I'm driven to build solutions that combine logic, design, and efficiency. I'm co
 
 ## 🎯 Currently
 
-- 📚 Finishing my **B.S. in Information Systems — UNSJ**
-- 🚀 Building my **first personal projects**
-- 🌱 Learning full-stack development and software engineering best practices
-- 🤝 Open to collaborating on open source or learning-focused projects
+- Finishing my **B.S. in Information Systems — UNSJ**
+- Building my **first personal projects**
+- Learning full-stack development and software engineering best practices
+- Open to collaborating on open source or learning-focused projects
 
 ---
 
