@@ -7,7 +7,7 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 <table>
 <tr>
@@ -28,7 +28,7 @@ I'm driven to build solutions that combine logic, design, and efficiency. I'm co
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -64,7 +64,7 @@ I'm driven to build solutions that combine logic, design, and efficiency. I'm co
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -78,7 +78,7 @@ I'm driven to build solutions that combine logic, design, and efficiency. I'm co
 
 ---
 
-## 🎯 Currently
+## Currently
 
 - Finishing my **B.S. in Information Systems — UNSJ**
 - Building my **first personal projects**
@@ -87,7 +87,7 @@ I'm driven to build solutions that combine logic, design, and efficiency. I'm co
 
 ---
 
-## 🌐 Contact
+## Contact
 
 <div align="center">
 
